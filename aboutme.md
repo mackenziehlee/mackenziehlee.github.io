@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'd be surprised if you didn't know me already  
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Full Biography:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Senior at University of Rochester
+- Spending this semester in South America
+- A deep individual
 
-What else do you need?
+Want to know more?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Email me 
+ - Can be found over the icon below
