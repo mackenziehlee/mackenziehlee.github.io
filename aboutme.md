@@ -13,4 +13,4 @@ Full Biography:
 Want to know more?
 
 * Email me 
- * Can be found over the icon below
+  * Can be found over the icon below
